@@ -1,0 +1,10 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+    <style>@keyframes chatMotion2{0%,to{transform:translateY(0)}50%{transform:translateY(-1px)}}</style>
+    <path stroke="#FFF" stroke-width="1.5"
+          d="M10 6.75h4A4.25 4.25 0 0118.25 11v6.25H10A4.25 4.25 0 015.75 13v-2A4.25 4.25 0 0110 6.75z"/>
+    <circle cx="9" cy="12" r="1" fill="#FFF" style="animation:chatMotion2 .8s ease-in-out infinite"/>
+    <circle cx="12" cy="12" r="1" fill="#FFF"
+            style="animation:chatMotion2 .8s ease-in-out infinite;animation-delay:.3s"/>
+    <circle cx="15" cy="12" r="1" fill="#FFF"
+            style="animation:chatMotion2 .8s ease-in-out infinite;animation-delay:.5s"/>
+</svg>

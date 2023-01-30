@@ -1,0 +1,30 @@
+.patientList {
+  background-color: #242731;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-left: 50px;
+  width: 100%;
+}
+
+.paginator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #6c5dd3;
+  background-color: #242731;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.paginator li {
+  padding: 8px 13px;
+  border-radius: 7px;
+  background-color: #ff888c10;
+  margin-right: 10px;
+}
+
+.paginator li:hover {
+  color: #fff;
+  background-color: #6c5dd3;
+}

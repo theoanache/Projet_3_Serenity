@@ -1,0 +1,15 @@
+.surgerybutton {
+  margin-left: 63vw;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 240px;
+  padding: 10px 20px;
+  height: 40px;
+}
+
+.barresgraphique {
+  height: 18px;
+}

@@ -1,0 +1,24 @@
+.patientSearch {
+  border-radius: 20px;
+}
+
+#search {
+  border-radius: 100px;
+  background-color: transparent;
+  color: white;
+}
+#search::placeholder {
+  color: white;
+}
+
+.loupeImage {
+  height: 16px;
+  filter: invert(36%) sepia(89%) saturate(1019%) hue-rotate(223deg)
+    brightness(87%) contrast(88%);
+}
+
+.addusericon {
+  height: 16px;
+  margin-left: 6px;
+  margin-top: 5px;
+}

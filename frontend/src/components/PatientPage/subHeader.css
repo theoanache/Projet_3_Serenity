@@ -1,0 +1,12 @@
+.subHeader {
+  height: 20vh;
+  background-color: #1f2128;
+}
+
+.buttonAddPatient {
+  background-color: #6c5dd3 !important;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+  margin-top: 100px;
+}

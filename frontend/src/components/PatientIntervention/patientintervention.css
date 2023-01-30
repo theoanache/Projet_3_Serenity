@@ -1,0 +1,34 @@
+.card-container {
+  display: flex;
+  justify-content: space-between;
+  font-size: large;
+  border-width: 3px;
+  height: 80px;
+  border: none;
+  border-radius: 19px 19px 19px 19px;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  box-shadow: 5px 5px 15px 5px #000000;
+  box-sizing: content-box;
+  width: 97%;
+  padding-right: 120px;
+}
+
+.mySurgery {
+  border: 3px solid rgb(139, 92, 246);
+}
+
+.surgery-detail {
+  width: 290px;
+}
+
+.bloc {
+  width: 150px;
+}
+
+.date {
+  font-size: 14.5px;
+  border-radius: 10px;
+  width: 120px;
+  height: 60px;
+  box-sizing: content-box;
+}

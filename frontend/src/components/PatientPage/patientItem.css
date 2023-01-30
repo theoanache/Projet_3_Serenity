@@ -1,0 +1,21 @@
+.patientCard {
+  display: flex;
+  width: 25vw;
+  gap: 2vw;
+  margin-top: 2vw;
+}
+
+.logoPatient {
+  height: 50px;
+  border-radius: 50%;
+}
+
+.useractive {
+  color: #91d148;
+}
+
+.patientEmail,
+.useractive {
+  font-size: 0.8em;
+  font-weight: 300;
+}
